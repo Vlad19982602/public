@@ -21,5 +21,5 @@ const PORT = process.env.PORT || 5000;
 // start();
 
 app.listen(PORT, () => {
-    console.log(`sTART ${PORT}`)
+    console.log(`Start ${PORT}`)
 })
